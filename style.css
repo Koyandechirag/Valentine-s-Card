@@ -58,6 +58,15 @@
     transform: rotatey(-95deg);
 }
 
+.cover p {  
+    justify-content: center;
+    font-size: 10px;
+    align-items: center;
+    text-align: center;
+    margin-top: 220px;
+    font-family: 'Protest Revolution', sans-serif;
+}
+
 /* Heart Styling */
 .heart {
     position: relative;
